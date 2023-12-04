@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">videoplayer</string>
+    <string name="account">your account id</string>
+
+    <!-- A sample Brightcove Edge Policy Key -->
+    <string name="policy">your policy key</string>
+
+    <!-- A sample Brightcove Video ID -->
+    <string name="videoId">your video id</string>
+
+</resources>
